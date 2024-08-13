@@ -1,0 +1,16 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.h1{
+    font-size:30px;
+    background : aquamarine;
+    border-radius:40px;
+    width:500px;
+    margin-top:25px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
